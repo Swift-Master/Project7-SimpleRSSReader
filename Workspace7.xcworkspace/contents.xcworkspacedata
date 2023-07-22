@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "EntryPoint">
+      <FileRef
+         location = "group:Project7/Project7.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Reference">
+      <FileRef
+         location = "group:ReferenceResources/SimpleRSSReader.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:SimpleRSSReader.gif">
+   </FileRef>
+</Workspace>

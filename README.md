@@ -1,8 +1,8 @@
-## 프로젝트 번호 : 프로젝트 이름
+## 프로젝트 7 : SimpleRSSReader
 
-간략한 설명
+RSS URL에서 외부 데이터를 받아와 UITableView를 구현해보는 프로젝트입니다.
 
-이 앱의 레퍼런스는 [soapyigu의 Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects)입니다.
+이 앱의 레퍼런스는 [soapyigu의 Swift-30-Projects - Project 8 SimpleRSSReader](https://github.com/soapyigu/Swift-30-Projects/tree/master/Project%2008%20-%20SimpleRSSReader)입니다.
 
 기본 기능을 모두 구현했다면, 디자인 및 추가 기능 구현은 자유롭게 해주세요.
 
@@ -33,4 +33,4 @@
 7. 2번으로 돌아가 새로운 작업을 반복합니다.
 
 ## 실제 화면
-![시뮬레이터화면](./이미지이름.gif)
+![시뮬레이터화면](./SimpleRSSReader.gif)
